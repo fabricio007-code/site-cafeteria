@@ -1,3 +1,47 @@
 body {
-    background-image: url("../images/cafe.jpeg");
+    background-color: #2d1606;
+}
+
+div {
+    background-color: bisque;
+    padding: 20px;
+    border-radius: 10px;
+    font-family: Georgia, serif;
+}
+
+img {
+    width: 300px;
+    height: auto;
+    border: solid 5px #432109;
+    border-radius: 10px;
+}
+
+.cardapio {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #432109;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.titulo {
+    color: #432109;
+    text-align: center;
+    font-size: 50px;
+    text-shadow: 2px 2px #d4a373;
+}
+
+.bemvindo {
+    color: #432109;
+    text-align: center;
+    font-size: 20px;
+    text-shadow: 2px 2px #d4a373;
+}
+
+p {
+    color: black;
+    text-align: center;
+    font-size: 18px;
 }
