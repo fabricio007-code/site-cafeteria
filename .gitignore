@@ -1,0 +1,13 @@
+# Arquivos temporários
+*.tmp
+*.log
+
+# Configurações pessoais do VS Code
+.vscode/
+
+# Arquivos do sistema Windows
+Thumbs.db
+Desktop.ini
+
+# Dependências do Node.js
+node_modules/
